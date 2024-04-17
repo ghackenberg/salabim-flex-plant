@@ -1,4 +1,4 @@
-# salabim-plant
+# salabim-robo-plant-2d
 
 This project provides a framework for **Plant Simulation** with [Python](https://www.python.org/) based on the amazing [Salabim](https://www.salabim.org/) package. Note that Salabim provides easy to use **Discrete Event Simulation** as well as **2D / 3D Visualization** capabilities for Python programmers. Consequently, you can build industrial grade simulation environments base on this software stack. Feel free to contact us for more information about our framework and its application to real-world scenarios!
 
